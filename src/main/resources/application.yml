@@ -1,0 +1,20 @@
+server:
+  port: 8081
+  
+security:
+  oauth2:
+    client:
+      client-id: first-client
+      client-secret: noonewilleverguess
+      access-token-uri: 
+      user-authorization-uri: 
+      client-authentication-scheme: from
+      
+
+ 
+   resource:
+      user-info-uri: 
+      prefer-token-info: 
+      
+      
+    
